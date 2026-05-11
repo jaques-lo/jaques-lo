@@ -1,102 +1,84 @@
-<h1 align="center">Olá Eu sou Lorenzo Jaques</h1>
-<h3 align="center">
-💻 Técnico em Informática em formação | Linux Enthusiast | C/C++ Developer
-</h3>
-<p align="center">
-Apaixonado por tecnologia, infraestrutura, Linux e desenvolvimento de sistemas.
-</p>
+<h1 align="center">Olá, Eu sou Lorenzo Jaques</h1>
 
-###
+<h3 align="center">💻 Técnico em Informática em formação | Linux Enthusiast | C/C++ Developer</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaques-lo&show_icons=true&theme=dracula&hide_border=true" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaques-lo&layout=compact&theme=dracula&hide_border=true" height="165" alt="languages graph" />
-</div>
+<p align="center">Apaixonado por tecnologia, infraestrutura, Linux e desenvolvimento de sistemas.</p>
 
-###
-<img align="left" height="40" src="https://media.tenor.com/iIDPxLXPcWwAAAAm/club-penguin.webp" />
+<img align="right" height="40" src="https://media.tenor.com/iIDPxLXPcWwAAAAm/club-penguin.webp" />
 
-## Sobre mim:
+<h2>Sobre mim</h2>
 
-🎓 Estudante de **Técnico em Informática** na ETEP (conclusão em 2026)
-🐧 Usuário Linux entusiasta de open source e self-hosting
-⚙️ Desenvolvendo em **C e C++** com CodeBlocks e QtCreator
-🖥️ Interesse em suporte técnico, infraestrutura e virtualização
+🎓 Estudante de **Técnico em Informática** na ETEP (conclusão em 2026)<br>
+🐧 Usuário Linux entusiasta de open source e self-hosting<br>
+⚙️ Desenvolvendo em **C e C++** com CodeBlocks e QtCreator<br>
+🖥️ Interesse em suporte técnico, infraestrutura e virtualização<br>
 🏠 Montando e explorando homelab com Proxmox, CasaOS e ZimaOS, testando dockers e mais!
-###
-<div align="left">
 
+<br><br>
 
-<h1 align="center"> </h1>
+<h2>🚀 Tecnologias e Ferramentas</h2>
 
-### Linguagens e  Banco de Dados
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1920px-C_Programming_Language.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" height="40" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+<h4>Linguagens e Banco de Dados</h4>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1920px-C_Programming_Language.svg.png" height="40" alt="c logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
 
+<br><br>
 
-### IDEs e Editores
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo" />
-  
+<h4>IDEs e Editores</h4>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo" />
 
-### Infra / DevOps
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo" />
-  <img width="12" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/3840px-UbuntuCoF.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" height="40" alt=ubuntu logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/proxmox.webp" height="40" alt="proxmox logo" />
-</div>
+<br><br>
 
----
+<h4>Infra / DevOps</h4>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo" />
+<img width="12" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/3840px-UbuntuCoF.svg.png" height="40" alt="ubuntu logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/proxmox.webp" height="40" alt="proxmox logo" />
 
-<h1 align="center"> </h1>
+<br><br>
 
+<img align="right" height="40" src="https://media.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif" />
 
-###
-
-<img align="left" height="40" src="https://media.tenor.com/y-cCxl8uEw0AAAAM/yetopen.gif" />
-
-##  Sistemas que utilizo:
+<h2>Sistemas que utilizo</h2>
 
 ```bash
-Linux Mint • Pop!_OS • Fedora • Ubuntu • Debian • ZorinOS • ArchLinux 
+Linux Mint • Pop!_OS • Fedora • Ubuntu • Debian • ZorinOS • ArchLinux
 Windows 10 • Windows 11
 ```
 
-###
+<br>
 
-<img align="left" height="40" src="https://media.tenor.com/U13lNziA8-sAAAAi/mail-email.gif" />
+<img align="right" height="40" src="https://media.tenor.com/U13lNziA8-sAAAAi/mail-email.gif" />
 
-##  Contato
+<h2>Contato</h2>
 
-<div align="left">
-  <a href="mailto:lorenzo.j.sprenger@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/lorenzo-jaques/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-</div>
+<a href="mailto:lorenzo.j.sprenger@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+</a>
+<a href="https://www.linkedin.com/in/lorenzo-jaques/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+</a>
 
-###
-
-<br clear="both">
+<br><br>
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
