@@ -3,8 +3,6 @@
 <h3 align="center">💻 Técnico em Informática em formação | Linux Enthusiast</h3>
 
 <p align="center">Apaixonado por tecnologia, infraestrutura, Linux e desenvolvimento de sistemas.</p>
-<img align="right" height="40" src="https://media.tenor.com/iIDPxLXPcWwAAAAm/club-penguin.webp" />
-
 <h2>Sobre mim</h2>
 <p>
 Estudante de Técnico em Informática na ETEP (conclusão em 2026), apaixonado por tecnologia, Linux e open source.
@@ -56,6 +54,10 @@ Windows 10 • Windows 11
 ```
 
 <br>
+
+<img align="right" height="110" src="https://media.tenor.com/iIDPxLXPcWwAAAAm/club-penguin.webp"/>
+<img align="left" height="100" src="https://media.tenor.com/VlrHuMS043YAAAAi/fotito.gif"/>
+
 <div align="center">
 <a href="mailto:lorenzo.j.sprenger@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
